@@ -1,0 +1,38 @@
+2026-10-10 10:07:03 INFO Module update agent 1.0.0 starting (check)
+2026-10-10 10:08:18 INFO Module update agent 1.0.0 starting (check)
+2026-10-10 10:08:19 WARNING Release server returned HTTP 404 for https://github.com/ikebobz/module-releases/releases/latest/downloads/manifest.json
+2026-10-10 10:08:19 WARNING No verified release manifest available (offline and nothing cached yet)
+2026-10-10 10:08:52 INFO Module update agent 1.0.0 starting (check)
+2026-10-10 10:08:59 WARNING Application is not responding at its health URL; will download but not install
+2026-10-10 10:08:59 INFO All modules up to date (release list 20261010075216)
+2026-10-10 10:09:59 INFO Module update agent 1.0.0 starting (check)
+2026-10-10 10:10:03 SEVERE Update cycle failed: IOException: Login to application failed: HTTP 400
+2026-10-10 10:11:33 INFO Module update agent 1.0.0 starting (check)
+2026-10-10 10:11:38 SEVERE Update cycle failed: IOException: Login to application failed: HTTP 400
+2026-10-10 10:22:34 INFO Module update agent 1.0.0 starting (check)
+2026-10-10 10:22:39 SEVERE Update cycle failed: IOException: Login to application failed: HTTP 400
+2026-10-10 10:27:03 INFO Module update agent 1.0.0 starting (check)
+2026-10-10 10:27:11 INFO All modules up to date (release list 20261010075216)
+2026-10-10 10:36:39 INFO Module update agent 1.0.0 starting (check)
+2026-10-10 10:36:48 INFO All modules up to date (release list 20261010093517)
+2026-10-10 10:50:47 INFO Module update agent 1.0.0 starting (check)
+2026-10-10 10:50:54 INFO All modules up to date (release list 20261010094530)
+2026-10-10 10:59:12 INFO Module update agent 1.0.0 starting (check)
+2026-10-10 10:59:19 INFO All modules up to date (release list 20261010094530)
+2026-10-10 11:01:27 INFO Module update agent 1.0.0 starting (check)
+2026-10-10 11:01:34 WARNING Module list returned no entries with both a name and a version - check app.api.list-modules.items-path / app.api.modules.name-field / version-field
+2026-10-10 11:01:34 INFO All modules up to date (release list 20261010094530)
+2026-10-10 11:03:31 INFO Module update agent 1.0.0 starting (check)
+2026-10-10 11:03:38 WARNING Module list returned no entries with both a name and a version - check app.api.list-modules.items-path / app.api.modules.name-field / version-field
+2026-10-10 11:03:38 INFO All modules up to date (release list 20261010094530)
+2026-10-10 11:05:07 INFO Module update agent 1.0.0 starting (check)
+2026-10-10 11:05:12 SEVERE Update cycle failed: IOException: Login to application failed: HTTP 401
+2026-10-10 11:09:25 INFO Module update agent 1.0.0 starting (check)
+2026-10-10 11:09:31 WARNING Module list returned no entries with both a name and a version - check app.api.list-modules.items-path / app.api.modules.name-field / version-field
+2026-10-10 11:09:31 INFO All modules up to date (release list 20261010094530)
+2026-10-10 11:13:37 INFO Module update agent 1.0.0 starting (check)
+2026-10-10 11:13:44 WARNING GET http://localhost:9120/api/v1/modules/installed returned 15 item(s); looking for fields name='name' version='version' active='true'. First item: { "id": 258, "name": "PatientModule", "basePackage": "org.lamisplus.modules.patient", "description": "patient", "version": "2.2.2", "buildTime": "2026-09-15T08:37:44+01:00", "active": true, "artifact": "patientmodule\\patient-2.2.2.jar", "umdLocation": "/across/resources/static/patient/index.html", "moduleMap": null, "inError": false, "installOnBoot": false, "priority": 100, "webModules": null, "t...
+2026-10-10 11:13:44 WARNING Module list returned no entries with both a name and a version - check app.api.list-modules.items-path / app.api.modules.name-field / version-field
+2026-10-10 11:13:44 INFO All modules up to date (release list 20261010094530)
+2026-10-10 11:16:21 INFO Module update agent 1.0.0 starting (check)
+2026-10-10 11:16:27 INFO Updates needed: [HtsModule 2.6.2, NDRModule 2.5.4]

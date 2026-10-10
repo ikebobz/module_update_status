@@ -1,0 +1,27 @@
+{
+  "channel": "stable",
+  "modules": [
+    {
+      "name": "HtsModule",
+      "version": "2.6.2",
+      "url": "hts-2.6.2.jar",
+      "order": 2,
+      "urgent": false,
+      "min_core_version": "",
+      "notes": "Fixes slow patient data load",
+      "sha256": "64cdd4caf522eb761410a193d4cf1057ede9e79402861217d301c3444e388c1f",
+      "size": 13466975
+    },
+    {
+      "name": "NDRModule",
+      "version": "2.5.4",
+      "url": "ndr-2.5.4.jar",
+      "order": 10,
+      "notes": "Optimizes XML extraction",
+      "sha256": "3c2698c603e1babcf3c09a5e893ff3b28bc9a9697a6802be363430498ce4c28e",
+      "size": 14203851
+    }
+  ],
+  "sequence": 20261010094530,
+  "published_at": "2026-10-10T09:45:30.277473400Z"
+}
